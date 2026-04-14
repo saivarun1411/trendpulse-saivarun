@@ -1,0 +1,902 @@
+[
+    {
+        "id": 47765604,
+        "title": "Rare concert recordings are landing on the Internet Archive",
+        "author": "jrm-veris",
+        "score": 269,
+        "time": 1776174391,
+        "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
+        "comments": 81
+    },
+    {
+        "id": 47768195,
+        "title": "Spain to expand internet blocks to tennis, golf, movies broadcasting times",
+        "author": "akyuu",
+        "score": 35,
+        "time": 1776185949,
+        "url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+        "comments": 15
+    },
+    {
+        "id": 47768133,
+        "title": "Claude Code Routines",
+        "author": "matthieu_bl",
+        "score": 36,
+        "time": 1776185673,
+        "url": "https://code.claude.com/docs/en/routines",
+        "comments": 8
+    },
+    {
+        "id": 47767676,
+        "title": "5NF and Database Design",
+        "author": "petalmind",
+        "score": 42,
+        "time": 1776183769,
+        "url": "https://kb.databasedesignbook.com/posts/5nf/",
+        "comments": 9
+    },
+    {
+        "id": 47760529,
+        "title": "DaVinci Resolve \u2013 Photo",
+        "author": "thebiblelover7",
+        "score": 942,
+        "time": 1776133515,
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+        "comments": 241
+    },
+    {
+        "id": 47758870,
+        "title": "Let's Talk Space Toilets",
+        "author": "zdw",
+        "score": 29,
+        "time": 1776120079,
+        "url": "https://mceglowski.substack.com/p/lets-talk-space-toilets",
+        "comments": 5
+    },
+    {
+        "id": 47760764,
+        "title": "A new spam policy for \u201cback button hijacking\u201d",
+        "author": "zdw",
+        "score": 708,
+        "time": 1776135987,
+        "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+        "comments": 416
+    },
+    {
+        "id": 47766370,
+        "title": "Show HN: LangAlpha \u2013 what if Claude Code was built for Wall Street?",
+        "author": "zc2610",
+        "score": 27,
+        "time": 1776178126,
+        "url": "https://github.com/ginlix-ai/langalpha",
+        "comments": 10
+    },
+    {
+        "id": 47762864,
+        "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
+        "author": "rrreese",
+        "score": 721,
+        "time": 1776155427,
+        "url": "https://rareese.com/posts/backblaze/",
+        "comments": 435
+    },
+    {
+        "id": 47763759,
+        "title": "jj \u2013 the CLI for Jujutsu",
+        "author": "tigerlily",
+        "score": 390,
+        "time": 1776162819,
+        "url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+        "comments": 320
+    },
+    {
+        "id": 47767606,
+        "title": "Show HN: Kelet \u2013 Root Cause Analysis agent for your LLM apps",
+        "author": "almogbaku",
+        "score": 19,
+        "time": 1776183411,
+        "url": "https://kelet.ai/",
+        "comments": 8
+    },
+    {
+        "id": 47765374,
+        "title": "Show HN: Kontext CLI \u2013 Credential broker for AI coding agents in Go",
+        "author": "mc-serious",
+        "score": 39,
+        "time": 1776173213,
+        "url": "https://github.com/kontext-dev/kontext-cli",
+        "comments": 9
+    },
+    {
+        "id": 47722031,
+        "title": "Carol's Causal Conundrum: a zine intro to causally ordered message delivery",
+        "author": "evakhoury",
+        "score": 10,
+        "time": 1775846580,
+        "url": "https://decomposition.al/zines/",
+        "comments": 0
+    },
+    {
+        "id": 47762641,
+        "title": "Introspective Diffusion Language Models",
+        "author": "zagwdt",
+        "score": 172,
+        "time": 1776153453,
+        "url": "https://introspective-diffusion.github.io/",
+        "comments": 36
+    },
+    {
+        "id": 47766550,
+        "title": "The future of everything is lies, I guess: Work",
+        "author": "aphyr",
+        "score": 175,
+        "time": 1776178845,
+        "url": "https://aphyr.com/posts/418-the-future-of-everything-is-lies-i-guess-work",
+        "comments": 131
+    },
+    {
+        "id": 47767143,
+        "title": "The Fediverse deserves a dumb graphical client",
+        "author": "speckx",
+        "score": 34,
+        "time": 1776181368,
+        "url": "https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md",
+        "comments": 6
+    },
+    {
+        "id": 47717192,
+        "title": "The acyclic e-graph: Cranelift's mid-end optimizer",
+        "author": "tekknolagi",
+        "score": 44,
+        "time": 1775824647,
+        "url": "https://cfallin.org/blog/2026/04/09/aegraph/",
+        "comments": 11
+    },
+    {
+        "id": 47764265,
+        "title": "The exponential curve behind open source backlogs",
+        "author": "armanckeser",
+        "score": 55,
+        "time": 1776166676,
+        "url": "https://armanckeser.com/writing/jellyfin-flow",
+        "comments": 35
+    },
+    {
+        "id": 47704729,
+        "title": "The M\u00d7N problem of tool calling and open-source models",
+        "author": "remilouf",
+        "score": 92,
+        "time": 1775747233,
+        "url": "https://www.thetypicalset.com/blog/grammar-parser-maintenance-contract",
+        "comments": 33
+    },
+    {
+        "id": 47716840,
+        "title": "Nucleus Nouns",
+        "author": "bewal416",
+        "score": 26,
+        "time": 1775822803,
+        "url": "https://ben-mini.com/2026/nucleus-nouns",
+        "comments": 9
+    },
+    {
+        "id": 47767160,
+        "title": "For the first time in the U.S., renewables generate more power than natural gas",
+        "author": "Brajeshwar",
+        "score": 110,
+        "time": 1776181455,
+        "url": "https://e360.yale.edu/digest/us-renewables-natural-gas-coal",
+        "comments": 63
+    },
+    {
+        "id": 47759709,
+        "title": "Lean proved this program correct; then I found a bug",
+        "author": "bumbledraven",
+        "score": 350,
+        "time": 1776126308,
+        "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+        "comments": 160
+    },
+    {
+        "id": 47722629,
+        "title": "Franklin's bad ads for Apple II clones and the beloved impersonator they depict",
+        "author": "rfarley04",
+        "score": 103,
+        "time": 1775849588,
+        "url": "https://buttondown.com/suchbadtechads/archive/franklin-ace-1000/",
+        "comments": 62
+    },
+    {
+        "id": 47761997,
+        "title": "Distributed DuckDB Instance",
+        "author": "citguru",
+        "score": 130,
+        "time": 1776148304,
+        "url": "https://github.com/citguru/openduck",
+        "comments": 28
+    },
+    {
+        "id": 47725052,
+        "title": "The Mouse Programming Language on CP/M",
+        "author": "PaulHoule",
+        "score": 10,
+        "time": 1775863117,
+        "url": "https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/",
+        "comments": 2
+    },
+    {
+        "id": 47761625,
+        "title": "Multi-Agentic Software Development Is a Distributed Systems Problem",
+        "author": "tie-in",
+        "score": 93,
+        "time": 1776144768,
+        "url": "https://kirancodes.me/posts/log-distributed-llms.html",
+        "comments": 44
+    },
+    {
+        "id": 47755629,
+        "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
+        "author": "speckx",
+        "score": 1111,
+        "time": 1776102879,
+        "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+        "comments": 312
+    },
+    {
+        "id": 47759341,
+        "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
+        "author": "throwawayk7h",
+        "score": 226,
+        "time": 1776123198,
+        "url": "https://github.com/fabienmillet/WiiFin",
+        "comments": 106
+    },
+    {
+        "id": 47768111,
+        "title": "An Oligarchy of Old People",
+        "author": "sleepyguy",
+        "score": 9,
+        "time": 1776185596,
+        "url": "https://www.theatlantic.com/magazine/2026/05/gerontocracy-wealth-power/686585/",
+        "comments": 3
+    },
+    {
+        "id": 47764098,
+        "title": "NimConf 2026: Dates Announced, Registrations Open",
+        "author": "moigagoo",
+        "score": 92,
+        "time": 1776165550,
+        "url": "https://nim-lang.org/blog/2026/04/07/nimconf-2026.html",
+        "comments": 25
+    },
+    {
+        "id": 47714770,
+        "title": "Show HN: Run GUIs as Scripts",
+        "author": "zero-st4rs",
+        "score": 17,
+        "time": 1775806109,
+        "url": "https://github.com/skinnyjames/hokusai-pocket",
+        "comments": 6
+    },
+    {
+        "id": 47711148,
+        "title": "A soft robot has no problem moving with no motor and no gears",
+        "author": "hhs",
+        "score": 77,
+        "time": 1775774021,
+        "url": "https://engineering.princeton.edu/news/2026/04/08/soft-robot-has-no-problem-moving-no-motor-and-no-gears",
+        "comments": 20
+    },
+    {
+        "id": 47757495,
+        "title": "GitHub Stacked PRs",
+        "author": "ezekg",
+        "score": 849,
+        "time": 1776112609,
+        "url": "https://github.github.com/gh-stack/",
+        "comments": 478
+    },
+    {
+        "id": 47766430,
+        "title": "War as a Pretext: Gulf States Are Tightening the Screws on Speech\u2013Again",
+        "author": "hn_acker",
+        "score": 23,
+        "time": 1776178337,
+        "url": "https://www.eff.org/deeplinks/2026/04/war-pretext-gulf-states-are-tightening-screws-speech-again",
+        "comments": 0
+    },
+    {
+        "id": 47728970,
+        "title": "Write less code, be more responsible",
+        "author": "orhunp_",
+        "score": 151,
+        "time": 1775899245,
+        "url": "https://blog.orhun.dev/code-responsibly/",
+        "comments": 98
+    },
+    {
+        "id": 47705390,
+        "title": "Lumina \u2013 a statically typed web-native language for JavaScript and WASM",
+        "author": "light_ideas",
+        "score": 52,
+        "time": 1775750531,
+        "url": "https://github.com/nyigoro/lumina-lang",
+        "comments": 21
+    },
+    {
+        "id": 47761723,
+        "title": "MOS tech 6502 8-bit microprocessor in pure SQL powered by Postgres",
+        "author": "adunk",
+        "score": 64,
+        "time": 1776145609,
+        "url": "https://github.com/lasect/pg_6502",
+        "comments": 8
+    },
+    {
+        "id": 47718284,
+        "title": "Design and implementation of DuckDB internals",
+        "author": "mpweiher",
+        "score": 172,
+        "time": 1775829566,
+        "url": "https://duckdb.org/library/design-and-implementation-of-duckdb-internals/",
+        "comments": 14
+    },
+    {
+        "id": 47724408,
+        "title": "The Great Majority: Body Snatching and Burial Reform in 19th-Century Britain",
+        "author": "apollinaire",
+        "score": 21,
+        "time": 1775859783,
+        "url": "https://publicdomainreview.org/essay/the-great-majority/",
+        "comments": 2
+    },
+    {
+        "id": 47756321,
+        "title": "How to make Firefox builds 17% faster",
+        "author": "mbitsnbites",
+        "score": 197,
+        "time": 1776106208,
+        "url": "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/",
+        "comments": 37
+    },
+    {
+        "id": 47753689,
+        "title": "Building a CLI for all of Cloudflare",
+        "author": "soheilpro",
+        "score": 322,
+        "time": 1776095042,
+        "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+        "comments": 106
+    },
+    {
+        "id": 47729350,
+        "title": "I just want simple S3",
+        "author": "g0xA52A2A",
+        "score": 210,
+        "time": 1775903775,
+        "url": "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/",
+        "comments": 112
+    },
+    {
+        "id": 47708457,
+        "title": "Rust Threads on the GPU",
+        "author": "PaulHoule",
+        "score": 108,
+        "time": 1775762410,
+        "url": "https://www.vectorware.com/blog/threads-on-gpu/",
+        "comments": 34
+    },
+    {
+        "id": 47766330,
+        "title": "To teach in the era of ChatGPT is to know pain",
+        "author": "ckemere",
+        "score": 21,
+        "time": 1776177920,
+        "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
+        "comments": 2
+    },
+    {
+        "id": 47767191,
+        "title": "Google, Microsoft, Meta All Tracking You Even When You Opt Out",
+        "author": "Cider9986",
+        "score": 126,
+        "time": 1776181603,
+        "url": "https://www.404media.co/google-microsoft-meta-all-tracking-you-even-when-you-opt-out-according-to-an-independent-audit/",
+        "comments": 75
+    },
+    {
+        "id": 47763810,
+        "title": "On hacker mindset",
+        "author": "jger15",
+        "score": 12,
+        "time": 1776163177,
+        "url": "https://www.henrikkarlsson.xyz/p/hacker-mindset",
+        "comments": 0
+    },
+    {
+        "id": 47729046,
+        "title": "Air Powered Segment Display? [video]",
+        "author": "ProfDreamer",
+        "score": 126,
+        "time": 1775899937,
+        "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+        "comments": 12
+    },
+    {
+        "id": 47764833,
+        "title": "Stanford HAI Index Report 2026",
+        "author": "giuliomagnifico",
+        "score": 5,
+        "time": 1776170112,
+        "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+        "comments": 1
+    },
+    {
+        "id": 47765862,
+        "title": "My brother's minesweeper site (minesweeper.org) has been running for 27 years",
+        "author": "restlessforge",
+        "score": 18,
+        "time": 1776175656,
+        "url": "https://restlessforge.substack.com/p/sweeping-for-mines",
+        "comments": 2
+    },
+    {
+        "id": 47765481,
+        "title": "Single-Dose Creatine Reduces Sleep Deprivation-Induced Deterioration",
+        "author": "pvsukale3",
+        "score": 24,
+        "time": 1776173767,
+        "url": "https://www.mdpi.com/2072-6643/18/8/1192",
+        "comments": 2
+    },
+    {
+        "id": 47767194,
+        "title": "Zig 0.16.0 Release Notes",
+        "author": "ska80",
+        "score": 31,
+        "time": 1776181618,
+        "url": "https://ziglang.org/download/0.16.0/release-notes.html",
+        "comments": 6
+    },
+    {
+        "id": 47743728,
+        "title": "Tracking down a 25% Regression on LLVM RISC-V",
+        "author": "luu",
+        "score": 124,
+        "time": 1776023578,
+        "url": "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/",
+        "comments": 25
+    },
+    {
+        "id": 47758347,
+        "title": "N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+        "author": "mufeedvh",
+        "score": 86,
+        "time": 1776117243,
+        "url": "https://ndaybench.winfunc.com",
+        "comments": 29
+    },
+    {
+        "id": 47756772,
+        "title": "GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+        "author": "galaxyLogic",
+        "score": 140,
+        "time": 1776108521,
+        "url": "https://amd-gaia.ai/docs",
+        "comments": 33
+    },
+    {
+        "id": 47766071,
+        "title": "I Found It: The Best Free Restaurant Bread in America",
+        "author": "jbegley",
+        "score": 21,
+        "time": 1776176729,
+        "url": "https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/",
+        "comments": 4
+    },
+    {
+        "id": 47762060,
+        "title": "The secrets of the Shinkansen",
+        "author": "WillDaSilva",
+        "score": 144,
+        "time": 1776148861,
+        "url": "https://www.worksinprogress.news/p/the-secret-behind-japans-railways",
+        "comments": 134
+    },
+    {
+        "id": 47753472,
+        "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+        "author": "m-hodges",
+        "score": 459,
+        "time": 1776094266,
+        "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+        "comments": 257
+    },
+    {
+        "id": 47716805,
+        "title": "Anastasia (1997) live action reference material",
+        "author": "hyperific",
+        "score": 37,
+        "time": 1775822596,
+        "url": "https://lostmediawiki.com/Anastasia_(partially_found_live-action_reference_material_for_Don_Bluth_animated_film;_1997)",
+        "comments": 10
+    },
+    {
+        "id": 47751781,
+        "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+        "author": "t-3",
+        "score": 438,
+        "time": 1776087453,
+        "url": "https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/",
+        "comments": 320
+    },
+    {
+        "id": 47728823,
+        "title": "What we learned building a Rust runtime for TypeScript",
+        "author": "vinhnx",
+        "score": 77,
+        "time": 1775897596,
+        "url": "https://encore.dev/blog/rust-runtime",
+        "comments": 13
+    },
+    {
+        "id": 47764164,
+        "title": "The Case Against Gameplay Loops (2024)",
+        "author": "coinfused",
+        "score": 50,
+        "time": 1776165985,
+        "url": "https://blog.joeyschutz.com/the-case-against-gameplay-loops/",
+        "comments": 48
+    },
+    {
+        "id": 47756569,
+        "title": "Show HN: Ithih\u0101sas \u2013 a character explorer for Hindu epics, built in a few hours",
+        "author": "cvrajeesh",
+        "score": 165,
+        "time": 1776107407,
+        "url": "https://www.ithihasas.in",
+        "comments": 44
+    },
+    {
+        "id": 47767593,
+        "title": "Stolen Rockstar Games analytics data leaked by extortion gang",
+        "author": "Brajeshwar",
+        "score": 5,
+        "time": 1776183349,
+        "url": "https://www.bleepingcomputer.com/news/security/stolen-rockstar-games-analytics-data-leaked-by-extortion-gang/",
+        "comments": 1
+    },
+    {
+        "id": 47756036,
+        "title": "Visualizing CPU Pipelining (2024)",
+        "author": "flipacholas",
+        "score": 89,
+        "time": 1776104800,
+        "url": "https://timmastny.com/blog/visualizing-cpu-pipelining/",
+        "comments": 11
+    },
+    {
+        "id": 47715389,
+        "title": "I shipped a transaction bug, so I built a linter",
+        "author": "leonhfr",
+        "score": 49,
+        "time": 1775811665,
+        "url": "https://leonh.fr/posts/go-transaction-linter/",
+        "comments": 10
+    },
+    {
+        "id": 47750872,
+        "title": "Servo is now available on crates.io",
+        "author": "ffin",
+        "score": 463,
+        "time": 1776082342,
+        "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+        "comments": 147
+    },
+    {
+        "id": 47752819,
+        "title": "Make tmux pretty and usable (2024)",
+        "author": "speckx",
+        "score": 420,
+        "time": 1776091735,
+        "url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
+        "comments": 258
+    },
+    {
+        "id": 47715681,
+        "title": "Repository Pattern with Hygienic Macros in Scheme \u2013 Lisp",
+        "author": "jjba23",
+        "score": 15,
+        "time": 1775814351,
+        "url": "https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html",
+        "comments": 0
+    },
+    {
+        "id": 47759292,
+        "title": "The AI revolution in math has arrived",
+        "author": "sonabinu",
+        "score": 100,
+        "time": 1776122764,
+        "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+        "comments": 50
+    },
+    {
+        "id": 47755209,
+        "title": "B-trees and database indexes (2024)",
+        "author": "tosh",
+        "score": 114,
+        "time": 1776100951,
+        "url": "https://planetscale.com/blog/btrees-and-database-indexes",
+        "comments": 43
+    },
+    {
+        "id": 47741953,
+        "title": "EasyPost (YC S13) Is Hiring",
+        "author": "jstreebin",
+        "score": 1,
+        "time": 1776013286,
+        "url": "https://www.easypost.com/careers",
+        "comments": null
+    },
+    {
+        "id": 47765872,
+        "title": "US Treasury Seeking Access to Anthropic's Mythos to Find Flaws",
+        "author": "helsinkiandrew",
+        "score": 12,
+        "time": 1776175672,
+        "url": "https://www.bloomberg.com/news/articles/2026-04-14/us-treasury-seeking-access-to-anthropic-s-mythos-to-find-flaws",
+        "comments": 4
+    },
+    {
+        "id": 47764975,
+        "title": "Man suspected of Molotov attack Sam Altmans home charged with attempted murder",
+        "author": "Bender",
+        "score": 15,
+        "time": 1776170872,
+        "url": "https://www.theregister.com/2026/04/14/altman_attempted_murder/",
+        "comments": 1
+    },
+    {
+        "id": 47751621,
+        "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+        "author": "mfilion",
+        "score": 87,
+        "time": 1776086630,
+        "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+        "comments": 27
+    },
+    {
+        "id": 47750669,
+        "title": "Android now stops you sharing your location in photos",
+        "author": "edent",
+        "score": 403,
+        "time": 1776080895,
+        "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+        "comments": 312
+    },
+    {
+        "id": 47752466,
+        "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+        "author": "bookofjoe",
+        "score": 87,
+        "time": 1776090362,
+        "url": "https://spectrum.ieee.org/mems-photonics",
+        "comments": 43
+    },
+    {
+        "id": 47746610,
+        "title": "All elementary functions from a single binary operator",
+        "author": "pizza",
+        "score": 828,
+        "time": 1776044972,
+        "url": "https://arxiv.org/abs/2603.21852",
+        "comments": 272
+    },
+    {
+        "id": 47728192,
+        "title": "If you started a company two years ago, many assumptions are no longer true",
+        "author": "tie-in",
+        "score": 200,
+        "time": 1775890739,
+        "url": "https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/",
+        "comments": 143
+    },
+    {
+        "id": 47761310,
+        "title": "Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan (2024)",
+        "author": "paulpauper",
+        "score": 101,
+        "time": 1776141551,
+        "url": "https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/",
+        "comments": 27
+    },
+    {
+        "id": 47744255,
+        "title": "I ran Gemma 4 as a local model in Codex CLI",
+        "author": "dvaughan",
+        "score": 269,
+        "time": 1776026588,
+        "url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+        "comments": 112
+    },
+    {
+        "id": 47729694,
+        "title": "Introduction to Obsidian",
+        "author": "bryanhogan",
+        "score": 191,
+        "time": 1775907302,
+        "url": "https://bryanhogan.com/blog/obsidian-introduction",
+        "comments": 147
+    },
+    {
+        "id": 47733217,
+        "title": "Exploiting the most prominent AI agent benchmarks",
+        "author": "Anon84",
+        "score": 581,
+        "time": 1775934956,
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+        "comments": 140
+    },
+    {
+        "id": 47759416,
+        "title": "Why it\u2019s impossible to measure England\u2019s coastline",
+        "author": "BiraIgnacio",
+        "score": 42,
+        "time": 1776123850,
+        "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
+        "comments": 37
+    },
+    {
+        "id": 47760027,
+        "title": "The Journal of C Language Translation",
+        "author": "kristianp",
+        "score": 27,
+        "time": 1776129140,
+        "url": "http://jclt.iecc.com/",
+        "comments": 3
+    },
+    {
+        "id": 47761609,
+        "title": "TanStack Start Now Support React Server Components",
+        "author": "polywock",
+        "score": 82,
+        "time": 1776144531,
+        "url": "https://tanstack.com/blog/react-server-components",
+        "comments": 65
+    },
+    {
+        "id": 47765746,
+        "title": "Ask HN: Who needs contributors? (April 2026)",
+        "author": "Kathan2651",
+        "score": 12,
+        "time": 1776175088,
+        "url": null,
+        "comments": 4
+    },
+    {
+        "id": 47751936,
+        "title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+        "author": "bundie",
+        "score": 362,
+        "time": 1776088104,
+        "url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+        "comments": 273
+    },
+    {
+        "id": 47715256,
+        "title": "Tool to explore regularly sampled time series",
+        "author": "rsva",
+        "score": 17,
+        "time": 1775810391,
+        "url": "https://github.com/rajivsam/tseda",
+        "comments": 0
+    },
+    {
+        "id": 47754379,
+        "title": "The Future of Everything Is Lies, I Guess: Safety",
+        "author": "aphyr",
+        "score": 314,
+        "time": 1776097389,
+        "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+        "comments": 175
+    },
+    {
+        "id": 47756876,
+        "title": "Just Enough Chimera Linux",
+        "author": "speckx",
+        "score": 64,
+        "time": 1776109074,
+        "url": "https://www.dwarmstrong.org/chimera-install-zfs/",
+        "comments": 23
+    },
+    {
+        "id": 47716409,
+        "title": "A name is succession, legacy and celebration in Japan's Kabuki theater",
+        "author": "mooreds",
+        "score": 16,
+        "time": 1775820038,
+        "url": "https://apnews.com/article/kabuki-name-succession-japan-tradition-theater-d1e9621bc91385498314f36e1481b6fd",
+        "comments": 2
+    },
+    {
+        "id": 47752884,
+        "title": "This year\u2019s insane timeline of hacks",
+        "author": "laurex",
+        "score": 329,
+        "time": 1776091985,
+        "url": "https://ringmast4r.substack.com/p/we-may-be-living-through-the-most",
+        "comments": 191
+    },
+    {
+        "id": 47757469,
+        "title": "We need Post-Quantum Cryptography more than ever",
+        "author": "ethanhawksley",
+        "score": 23,
+        "time": 1776112422,
+        "url": "https://hawksley.dev/blog/need-for-post-quantum-cryptography/",
+        "comments": 1
+    },
+    {
+        "id": 47757426,
+        "title": "Ascending into the Realm of Japanese Charts",
+        "author": "speckx",
+        "score": 61,
+        "time": 1776112195,
+        "url": "https://www.chartography.net/p/ascending-into-the-realm-of-japanese",
+        "comments": 3
+    },
+    {
+        "id": 47762006,
+        "title": "Can Claude Fly a Plane?",
+        "author": "casi",
+        "score": 97,
+        "time": 1776148365,
+        "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+        "comments": 93
+    },
+    {
+        "id": 47750821,
+        "title": "Michigan 'digital age' bills pulled after privacy concerns raised",
+        "author": "iamnothere",
+        "score": 218,
+        "time": 1776081935,
+        "url": "https://www.thecentersquare.com/michigan/article_7ca4e268-4a68-42fb-9042-f9d8604ebd7f.html",
+        "comments": 127
+    },
+    {
+        "id": 47754179,
+        "title": "Claude Code may be burning your limits with invisible tokens",
+        "author": "jenic_",
+        "score": 47,
+        "time": 1776096615,
+        "url": "https://efficienist.com/claude-code-may-be-burning-your-limits-with-invisible-tokens-you-cant-see-or-audit/",
+        "comments": 6
+    },
+    {
+        "id": 47761371,
+        "title": "Bear Roll \u2013 Daily roll of Bear Blog's top posts",
+        "author": "freediver",
+        "score": 9,
+        "time": 1776142176,
+        "url": "https://bearroll.dev/",
+        "comments": 2
+    },
+    {
+        "id": 47748064,
+        "title": "The economics of software teams: Why most engineering orgs are flying blind",
+        "author": "kiyanwang",
+        "score": 405,
+        "time": 1776059132,
+        "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+        "comments": 280
+    },
+    {
+        "id": 47762851,
+        "title": "Show HN: A stateful UI runtime for reactive web apps in Go",
+        "author": "derstruct",
+        "score": 9,
+        "time": 1776155296,
+        "url": "https://github.com/doors-dev/doors",
+        "comments": 4
+    }
+]
